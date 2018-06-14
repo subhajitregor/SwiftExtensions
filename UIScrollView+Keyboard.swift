@@ -1,9 +1,7 @@
 //
 //  UIScrollView+Keyboard.swift
-//  Late Lateef
 //
 //  Created by subhajit halder on 18/01/17.
-//  Copyright © 2017 Tanmoy. All rights reserved.
 //
 
 import Foundation

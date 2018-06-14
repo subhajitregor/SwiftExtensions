@@ -1,9 +1,8 @@
 //
 //  SHScrollView.swift
-//  GatooDelivery
+//  
 //
-//  Created by user on 9/20/17.
-//  Copyright © 2017 SubhajitHalder. All rights reserved.
+//  Created by SubhajitHalder on 9/20/17.
 //
 
 import UIKit

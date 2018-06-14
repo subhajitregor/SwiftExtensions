@@ -1,9 +1,7 @@
 //
 //  UIViewController+Utility.swift
-//  Late Lateef
 //
 //  Created by subhajit halder on 23/12/16.
-//  Copyright © 2016 Tanmoy. All rights reserved.
 //
 
 import Foundation

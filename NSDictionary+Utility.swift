@@ -1,9 +1,8 @@
 //
 //  NSDictionary+Utility.swift
-//  DNADemo
+//  
 //
 //  Created by subhajit halder on 21/02/17.
-//  Copyright © 2017 SubhajitHalder. All rights reserved.
 //
 
 import Foundation

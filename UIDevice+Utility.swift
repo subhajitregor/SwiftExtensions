@@ -1,9 +1,7 @@
 //
 //  UIDevice+Utility.swift
-//  MVGCustomerApp
 //
 //  Created by subhajit halder on 18/11/17.
-//  Copyright © 2017 SubhajitHalder. All rights reserved.
 //
 
 import Foundation

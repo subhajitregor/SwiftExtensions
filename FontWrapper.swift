@@ -1,10 +1,9 @@
 
 //
 //  FontWrap.swift
-//  MVGCustomerApp
+//  
 //
 //  Created by subhajit halder on 12/10/17.
-//  Copyright © 2017 SubhajitHalder. All rights reserved.
 //
 
 import Foundation

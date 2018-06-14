@@ -1,9 +1,7 @@
 //
 //  UIColor+Utility.swift
-//  Coverd
 //
 //  Created by subhajit halder on 12/02/17.
-//  Copyright © 2017 SubhajitHalder. All rights reserved.
 //
 
 import Foundation

@@ -1,10 +1,10 @@
 
 //
 //  CALayer+Storyboard.swift
-//  Late Lateef
+/
 //
-//  Created by Tanmoy Khanra on 22/12/16.
-//  Copyright © 2016 Tanmoy. All rights reserved.
+//  Created by Subhajit Halder on 22/12/16.
+//  
 //
 
 import Foundation

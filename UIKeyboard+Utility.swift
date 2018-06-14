@@ -1,9 +1,7 @@
 //
 //  UIKeyboard+Utility.swift
-//  MVGCustomerApp
 //
 //  Created by Subhajit Halder on 20/02/18.
-//  Copyright © 2018 SubhajitHalder. All rights reserved.
 //
 
 import Foundation
